@@ -1,1 +1,1 @@
-Task 0.Where am I?
+ A script that Display current directory contents, including hidden files (starting with .)
