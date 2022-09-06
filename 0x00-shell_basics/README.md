@@ -1,3 +1,1 @@
-A script that changes the working directory to the users home directory >  README.md
-
-echo A script that changes the working directory to the users home directory
+A script that displays the current directory contents in a long format
