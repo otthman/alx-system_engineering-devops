@@ -1,2 +1,3 @@
-This is a script that changes the working diorectory to userss home directory > README.md
-echo This is a script that changes the working diorectory to userss home directory
+A script that changes the working directory to the users home directory >  README.md
+
+echo A script that changes the working directory to the users home directory
