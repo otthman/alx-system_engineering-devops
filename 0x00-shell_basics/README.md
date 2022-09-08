@@ -1,1 +1,1 @@
-A script that moves the file betty from /tmp/
+A script to move Betty
