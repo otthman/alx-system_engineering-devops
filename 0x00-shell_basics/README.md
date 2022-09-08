@@ -1,1 +1,1 @@
-A script to move Betty
+A script to remove a file betty
